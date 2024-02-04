@@ -1,0 +1,1 @@
+This is a research work for identification of influential features for diabetes prediction at early stage. The iForest has been used for outlier removal. The Chi-square, mRMR, RFE-RF have been utilized for feature selection. The KNN, NB, SVM have been used as the classifiers.
