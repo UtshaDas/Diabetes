@@ -1,0 +1,9 @@
+"","Biomarker","ChiSquare","NumberFeature"
+"1","Glucose",0.419993006668202,2
+"2","Pregnancies",0.201108971263902,1
+"3","DiabetesPedigreeFunction",0.197012998955108,7
+"4","BMI",0.186814995247773,6
+"5","Age",0.181140912097174,8
+"6","BloodPressure",0.141794158451038,3
+"7","Insulin",0.130217995904031,5
+"8","SkinThickness",0.0776019120609715,4

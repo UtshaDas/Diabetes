@@ -1,0 +1,17 @@
+,Biomarker,ChiSquare,NumberFeature
+1,Polyuria,0.704876522,3
+2,Polydipsia,0.680996418,4
+3,partial_paresis,0.487779537,13
+4,Gender,0.468509481,2
+5,sudden_weight_loss,0.439172556,5
+6,Polyphagia,0.37451267,7
+7,Alopecia,0.322222222,15
+8,visual_blurring,0.264914684,9
+9,weakness,0.260320437,6
+10,Irritability,0.230860389,11
+11,muscle_stiffness,0.105539741,14
+12,Age,0.072931054,1
+13,delayed_healing,0.056144827,12
+14,Genital_thrush,0.041540089,8
+15,Itching,0,10
+16,Obesity,0,16

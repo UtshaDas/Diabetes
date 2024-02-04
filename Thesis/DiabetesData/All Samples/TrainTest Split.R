@@ -1,0 +1,10 @@
+rm(list=ls())
+data<-read.csv("./Diabetes.csv")
+
+library(caTools)
+set.seed(123)
+split=sample.split(data$class,SplitRatio =0.8)
+training=subset(data,split==TRUE)
+testing=subset(data,split==FALSE)
+write.csv(training,"./Diabetes_Dataset_Train80p.csv")
+write.csv(testing,"./Diabetes_Dataset_Test20p.csv")
